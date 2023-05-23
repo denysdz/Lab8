@@ -1,0 +1,11 @@
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\miste\OneDrive\Робочий стіл\ІСТ-21\ООП\2 semester\Lab8\Lab8\obj\Debug\Lab8.pdb

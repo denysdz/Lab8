@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Name>Test book</Name>
+    <PublishName>rdgfdhgfd</PublishName>
+    <Date>2020-03-01T08:47:38</Date>
+    <Pages>34<Pages>
+    <Price>2435</Price>
+  </Book>
+  <Book>
+    <Name>Test book 1</Name>
+    <PublishName>rdgfdhgfdch</PublishName>
+    <Date>2023-03-01T08:47:38</Date>
+    <Pages>345</Pages>
+    <Price>24356</Price>
+  </Book>
+</ArrayOfBook>
